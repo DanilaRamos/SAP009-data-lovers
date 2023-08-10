@@ -2,7 +2,7 @@
 
 # <div align="center"> Olimpíadas Rio 2016 - TORNE-SE UM ATLETA 🥇💪 </div>
 
-### <div align="center"> Acesse o projeto completo [CLICANDO AQUI](https://vanessanmenezes.github.io/SAP009-data-lovers/src) </div>
+### <div align="center"> Acesse o projeto completo [CLICANDO AQUI](https://vanessanmenezes.github.io/Data-lovers/src) </div>
 
 ***
 
@@ -157,4 +157,6 @@ seja, se adapta perfeitamente em telas de celulares, tablets, notebooks, seguind
 
 ***
 
-#### 🧡 ESTE PROJETO FOI CRIADO E DESENVOLVIDO POR: [DANILA RAMOS](https://github.com/DanilaRamos) 💛 & [VANESSA MENEZES](https://github.com/VanessaNMenezes) 💚
+#### 🥇 ESTE PROJETO FOI CRIADO E DESENVOLVIDO POR: [DANILA RAMOS](https://github.com/DanilaRamos) 💚 & [VANESSA MENEZES](https://github.com/VanessaNMenezes) 💛
+
+***
